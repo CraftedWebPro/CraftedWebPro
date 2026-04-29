@@ -1,17 +1,17 @@
 <div align="center">
 
-                                            ```
-                                            ╔════════════════════════════════════════════════════╗
-                                            ║                                                    ║
-                                            ║    █▀▀ █▀█ █▀█ █▀▀ ▀█▀ █▀▀ █▀▄                   ║
-                                            ║    █▄▄ █▀▄ █▀█ █▀░  █  █▄▄ █▀▄                   ║
-                                            ║    ░░  ░░  ░░  ░░░  ░  ░░░ ░░                    ║
-                                            ║    █░█░█ █▀▀ █▄▄   █▀█ █▀█ █▀█                   ║
-                                            ║    ▀▄▀▄▀ ██▄ █▄█   █▀▀ █▀▄ █▄█                   ║
-                                            ║                                                    ║
-                                            ║         builder. maker. figuring it out.           ║
-                                            ╚════════════════════════════════════════════════════╝
-                                            ```
+                                    ```
+                                    ╔════════════════════════════════════════════════════╗
+                                    ║                                                    ║
+                                    ║    █▀▀ █▀█ █▀█ █▀▀ ▀█▀ █▀▀ █▀▄                   ║
+                                    ║    █▄▄ █▀▄ █▀█ █▀░  █  █▄▄ █▀▄                   ║
+                                    ║    ░░  ░░  ░░  ░░░  ░  ░░░ ░░                    ║
+                                    ║    █░█░█ █▀▀ █▄▄   █▀█ █▀█ █▀█                   ║
+                                    ║    ▀▄▀▄▀ ██▄ █▄█   █▀▀ █▀▄ █▄█                   ║
+                                    ║                                                    ║
+                                    ║         builder. maker. figuring it out.           ║
+                                    ╚════════════════════════════════════════════════════╝
+                                    ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=I+build+apps+%26+websites;Self-taught+%26+still+learning;Open+to+freelance+work;Most+work+is+private+%F0%9F%94%92)](https://git.io/typing-svg)
 
