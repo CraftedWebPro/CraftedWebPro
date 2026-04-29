@@ -4,7 +4,7 @@
 ╔════════════════════════════════════════════════════╗
 ║                                                    ║
 ║    █▀▀ █▀█ █▀█ █▀▀ ▀█▀ █▀▀ █▀▄                   ║
-║    █▄▄ █▀▄ █▀█ █▀░  █  █▄▄ █▄▀                   ║
+║    █▄▄ █▀▄ █▀█ █▀░  █  █▄▄ █▀▄                   ║
 ║    ░░  ░░  ░░  ░░░  ░  ░░░ ░░                    ║
 ║    █░█░█ █▀▀ █▄▄   █▀█ █▀█ █▀█                   ║
 ║    ▀▄▀▄▀ ██▄ █▄█   █▀▀ █▀▄ █▄█                   ║
@@ -13,88 +13,97 @@
 ╚════════════════════════════════════════════════════╝
 ```
 
-[![Profile Views](https://komarev.com/ghpvc/?username=CraftedWebPro&color=5e81ac&style=flat&label=visitors)](https://github.com/CraftedWebPro)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=I+build+apps+%26+websites;Self-taught+%26+still+learning;Open+to+freelance+work;Most+work+is+private+%F0%9F%94%92)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=CraftedWebPro&color=5e81ac&style=flat&label=profile+views)](https://github.com/CraftedWebPro)
 
 </div>
 
 ---
 
-## what i do
+### 👨‍💻 About Me
 
-i build stuff. apps, tools, websites — whatever the problem needs.  
-no degree, no fancy title. just code and shipping things that work.
-
-most of my real work is in **private repos** — client projects, ongoing builds, things that aren't ready yet.  
-if you want to see more, just reach out.
-
----
-
-## things i work with
-
-```
-js / react native     →  web & mobile apps
-dart / flutter        →  cross-platform mobile
-c#                    →  game dev & desktop
-bash / linux          →  automation & tooling
-```
+- 🔨 I build apps, tools & websites — whatever the problem needs
+- 🌱 Currently building **Kachahari** and **Trehive Invoice**
+- 🔒 Most of my serious work lives in **private repos** (client projects + ongoing builds)
+- 💬 Ask me about **React Native, Flutter, JavaScript, Linux**
+- 📫 Reach me at **craftedwebpro@gmail.com**
+- ⚡ Fun fact — no degree, no problem. just ship things.
 
 ---
 
-## what's cooking 🔒
+### 🌐 Socials
 
-| project | what it is | stack |
-|---|---|---|
-| 🔒 **Kachahari** | full app, in progress | JavaScript |
-| 🔒 **Trehive Invoice** | billing system, stable v2 | Dart / Flutter |
-| 🔒 *+ more* | client work & experiments | various |
-
-> most serious work is private by default. dm me if you want to see samples.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-tamang-7aa75a159)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vivek.tamang.733190)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:craftedwebpro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CraftedWebPro)
 
 ---
 
-## public stuff
+### 🛠️ Tech Stack
 
-- [**Learn-Linux**](https://github.com/CraftedWebPro/Learn-Linux) — react native app for learning linux, beginner-friendly
-- [**Cube-Reflex**](https://github.com/CraftedWebPro/Cube-Reflex) — c# reflex game
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CraftedWebPro&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=CraftedWebPro&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraftedWebPro&layout=compact&theme=nord&hide_border=true&langs_count=6&count_private=true" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CraftedWebPro&layout=compact&theme=nord&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CraftedWebPro&theme=nord&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=CraftedWebPro&theme=nord&hide_border=true&mode=weekly" width="700"/>
 
 </div>
 
 ---
 
-## trophies
+### 🏆 Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CraftedWebPro&theme=nord&no-frame=true&margin-w=8&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=CraftedWebPro&theme=nord&no-frame=true&margin-w=8&row=1&column=7)
 
 </div>
 
 ---
 
-## find me
+### 🔒 What I'm Building (Private)
 
-```
-📧  craftedwebpro@gmail.com
-💼  linkedin.com/in/vivek-tamang-7aa75a159
-📘  facebook.com/vivek.tamang.733190
-```
+| project | what it is | stack | status |
+|---|---|---|---|
+| 🔒 **Kachahari** | full app | JavaScript | active |
+| 🔒 **Trehive Invoice** | billing system | Dart / Flutter | v2.0.1 stable ✅ |
+| 🔒 *+ client work* | various projects | various | ongoing |
 
-open to freelance. if you've got something to build, i'm interested.
+> dm me or email if you want to see samples — happy to share.
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CraftedWebPro/CraftedWebPro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CraftedWebPro/CraftedWebPro/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CraftedWebPro/CraftedWebPro/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
 <div align="center">
-<sub>484 contributions last year. still going.</sub>
+<sub>484 contributions last year. still going. 🚀</sub>
 </div>
