@@ -82,7 +82,7 @@
 
 | project | what it is | stack | status |
 |---|---|---|---|
-| 🔒 **Kachahari** | full app | JavaScript | active |
+| 🔒 **Stusync** | full app | JavaScript | active |
 | 🔒 **Trehive Invoice** | billing system | Dart / Flutter | v2.0.1 stable ✅ |
 | 🔒 *+ client work* | various projects | various | ongoing |
 
