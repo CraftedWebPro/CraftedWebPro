@@ -127,8 +127,8 @@ Most of what I know came from learning in public, fixing problems, and shipping 
 
 | project | what it is | stack | status |
 |---|---|---|---|
-| 🔒 **Deskwise App & Web** | productivity app | Flutter / React | active |
-| 🔒 **Vault-OS** | OS project | Linux / C | active |
+| 🔒 **Deskwise App & Web** | productivity app | Flutter /Supabase / Sqllite | active |
+| 🔒 **Vault-OS** | OS project | Flutter/ Python | active |
 | 🔒 **School Management Web App** | education platform | React / Next.js | active |
 | 🔒 *+ 10 more private repos* | various projects | various | ongoing |
 
