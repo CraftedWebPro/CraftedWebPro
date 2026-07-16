@@ -22,7 +22,7 @@
 - Most of my serious work lives in private repos: client builds and ongoing products
 - Ask me about **React Native, Flutter, JavaScript, Linux**
 - Reach me at **craftedwebpro@gmail.com**
-- No degree, no problem. Just ship things.
+- Don't stop shipping things.
 
 I like building things that feel useful, calm, and fast in real life, not just good in screenshots.
 Most of what I know came from learning in public, fixing problems, and shipping anyway.
