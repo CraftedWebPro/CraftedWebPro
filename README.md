@@ -90,12 +90,6 @@
 
 </div>
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=CraftedWebPro&theme=nord&no-frame=true&margin-w=8&row=1&column=7)
-
-</div>
-
 ---
 
 ### 🏅 Achievement Wall
