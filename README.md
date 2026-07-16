@@ -100,10 +100,6 @@
 
 </div>
 
-<div align="center">
-<sub>⚙️ needs one-time setup — see notes below the file</sub>
-</div>
-
 ---
 
 ### 🔒 What I'm Building (Private)
@@ -137,21 +133,3 @@
 </div>
 
 ---
-
-<details>
-<summary>⚙️ Setup notes (for the two widgets that need your own accounts)</summary>
-
-**Now Playing Widget (Novatorem)**
-1. Uses [Novatorem](https://github.com/novatorem/novatorem) with Last.fm (works without Spotify Premium)
-2. Create a free [Last.fm](https://www.last.fm) account and link your streaming service
-3. Get a Last.fm API key at [last.fm/api/account/create](https://www.last.fm/api/account/create)
-4. Deploy to Vercel with environment variables: `LAST_FM_API_KEY` and `LAST_FM_USERNAME`
-
-**Achievement Wall (Holopin)**
-1. Sign up free at [holopin.io](https://holopin.io) using your GitHub account
-2. Once set up, your board URL becomes `holopin.me/craftedwebpro` automatically
-3. No code changes needed — the badge above will start working once the account exists
-
-Until these are set up, those two widgets will just show broken images — that's expected, not a bug in the file.
-
-</details>
