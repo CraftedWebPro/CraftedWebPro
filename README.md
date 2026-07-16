@@ -1,17 +1,7 @@
 <div align="center">
 
-                                    ```
-                                    ╔════════════════════════════════════════════════════╗
-                                    ║                                                    ║
-                                    ║    █▀▀ █▀█ █▀█ █▀▀ ▀█▀ █▀▀ █▀▄                   ║
-                                    ║    █▄▄ █▀▄ █▀█ █▀░  █  █▄▄ █▀▄                   ║
-                                    ║    ░░  ░░  ░░  ░░░  ░  ░░░ ░░                    ║
-                                    ║    █░█░█ █▀▀ █▄▄   █▀█ █▀█ █▀█                   ║
-                                    ║    ▀▄▀▄▀ ██▄ █▄█   █▀▀ █▀▄ █▄█                   ║
-                                    ║                                                    ║
-                                    ║         builder. maker. figuring it out.           ║
-                                    ╚════════════════════════════════════════════════════╝
-                                    ```
+# Vivek Tamang
+### builder · maker · figuring it out
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=I+build+apps+%26+websites;Self-taught+%26+still+learning;Open+to+freelance+work;Most+work+is+private+%F0%9F%94%92)](https://git.io/typing-svg)
 
@@ -23,21 +13,53 @@
 
 ### 👨‍💻 About Me
 
-- 🔨 I build apps, tools & websites — whatever the problem needs
-- 🌱 Currently building **Kachahari** and **Trehive Invoice**
-- 🔒 Most of my serious work lives in **private repos** (client projects + ongoing builds)
+- 🔨 Freelance full-stack developer — Flutter mobile/desktop apps, React & Next.js web
+- 🌱 Currently building **Deskwise App & Web** and **Vault-OS*
+- 🔒 Most of my serious work lives in private repos — client projects + ongoing builds
 - 💬 Ask me about **React Native, Flutter, JavaScript, Linux**
 - 📫 Reach me at **craftedwebpro@gmail.com**
-- ⚡ Fun fact — no degree, no problem. just ship things.
+- ⚡ No degree, no problem. Just ship things.
 
 ---
 
-### 🌐 Socials
+### 🌐 Find Me Elsewhere
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-tamang-7aa75a159)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vivek.tamang.733190)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:craftedwebpro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CraftedWebPro)
+<p align="center">
+  <a href="https://craftedwebpro.com"><img width="32px" src="https://img.icons8.com/color/344/globe.png" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/vivek-tamang-7aa75a159"><img width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/vivek.tamang.733190"><img width="32px" src="https://img.icons8.com/fluency/344/facebook-new.png" alt="Facebook"/></a>
+  <a href="mailto:craftedwebpro@gmail.com"><img width="32px" src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://github.com/CraftedWebPro"><img width="32px" src="https://img.icons8.com/color/344/github--v1.png" alt="GitHub"/></a>
+</p>
+
+<div align="center">
+<sub>Have a Play Store, X/Twitter, or Instagram you want listed too? Send me the links and I'll slot in the icons.</sub>
+</div>
+
+---
+
+### 🎧 Currently Vibing To
+
+<div align="center">
+
+<!-- Novatorem – Last.fm Now Playing Widget -->
+<img src="https://nowplaying-ktc1.vercel.app/" alt="Now Playing" width="400" />
+
+</div>
+
+<div align="center">
+<sub>Powered by <a href="https://github.com/novatorem/novatorem">Novatorem</a> + Last.fm</sub>
+</div>
+
+---
+
+### 💬 Quote of the Deploy
+
+<div align="center">
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+
+</div>
 
 ---
 
@@ -59,21 +81,34 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=CraftedWebPro&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraftedWebPro&layout=compact&theme=nord&hide_border=true&langs_count=6&count_private=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=CraftedWebPro&theme=nord&hide_border=true&mode=weekly" width="700"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CraftedWebPro&layout=compact&theme=nord&hide_border=true&langs_count=6&count_private=true" height="180"/>
 
 </div>
 
----
+<div align="center">
 
-### 🏆 Trophies
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CraftedWebPro&theme=nord&hide_border=true&area=true" width="700"/>
+
+</div>
 
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=CraftedWebPro&theme=nord&no-frame=true&margin-w=8&row=1&column=7)
 
+</div>
+
+---
+
+### 🏅 Achievement Wall
+
+<div align="center">
+
+[![@CraftedWebPro's Holopin board](https://holopin.me/craftedwebpro)](https://holopin.io/@craftedwebpro)
+
+</div>
+
+<div align="center">
+<sub>⚙️ needs one-time setup — see notes below the file</sub>
 </div>
 
 ---
@@ -86,7 +121,7 @@
 | 🔒 **Trehive Invoice** | billing system | Dart / Flutter | v2.0.1 stable ✅ |
 | 🔒 *+ client work* | various projects | various | ongoing |
 
-> dm me or email if you want to see samples — happy to share.
+> DM me or email if you want to see samples — happy to share.
 
 ---
 
@@ -107,3 +142,23 @@
 <div align="center">
 <sub>484 contributions last year. still going. 🚀</sub>
 </div>
+
+---
+
+<details>
+<summary>⚙️ Setup notes (for the two widgets that need your own accounts)</summary>
+
+**Now Playing Widget (Novatorem)**
+1. Uses [Novatorem](https://github.com/novatorem/novatorem) with Last.fm (works without Spotify Premium)
+2. Create a free [Last.fm](https://www.last.fm) account and link your streaming service
+3. Get a Last.fm API key at [last.fm/api/account/create](https://www.last.fm/api/account/create)
+4. Deploy to Vercel with environment variables: `LAST_FM_API_KEY` and `LAST_FM_USERNAME`
+
+**Achievement Wall (Holopin)**
+1. Sign up free at [holopin.io](https://holopin.io) using your GitHub account
+2. Once set up, your board URL becomes `holopin.me/craftedwebpro` automatically
+3. No code changes needed — the badge above will start working once the account exists
+
+Until these are set up, those two widgets will just show broken images — that's expected, not a bug in the file.
+
+</details>
