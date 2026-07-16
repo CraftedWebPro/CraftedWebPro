@@ -80,8 +80,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma.vercel.app/api?username=CraftedWebPro&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&v=1" height="180"/>
+<img src="https://github-stats-extended-api.vercel.app/api?username=CraftedWebPro&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&v=2" height="180"/>
 
+<img src="https://github-stats-extended-api.vercel.app/api/top-langs/?username=CraftedWebPro&layout=compact&theme=nord&hide_border=true&langs_count=8&v=2" height="180"/>
+
+</div>
+
+<div align="center">
+<sub>Self-hosted on Vercel for better reliability and private contribution support.</sub>
 </div>
 
 <div align="center">
@@ -112,6 +118,15 @@
 | 🔒 *+ 10 more private repos* | various projects | various | ongoing |
 
 > DM me or email if you want to see samples — happy to share.
+
+---
+
+### Currently Open To
+
+- freelance web and mobile builds
+- long-term product collaborations
+- helping founders ship MVPs quickly
+- interesting open-source and Linux-side experiments
 
 ---
 
