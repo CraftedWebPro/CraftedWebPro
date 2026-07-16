@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:5e81ac,100:88c0d0&height=180&section=header&text=Vivek%20Tamang&fontSize=42&fontColor=e5f3ff&animation=fadeIn&fontAlignY=35&desc=builder%20%C2%B7%20maker%20%C2%B7%20figuring%20it%20out&descAlignY=55&descSize=16" alt="header banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=I+build+apps+%26+websites;Self-taught+%26+still+learning;Open+to+freelance+work;Most+work+is+private+%F0%9F%94%92)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=I+build+apps+%26+websites;Full-stack+developer+%7C+Flutter+%26+React;Open+to+freelance+work;Most+work+is+private+%F0%9F%94%92)](https://git.io/typing-svg)
 
 [![Freelance](https://img.shields.io/badge/Open%20to-Freelance%20Work-88c0d0?style=for-the-badge&labelColor=1e293b)](mailto:craftedwebpro@gmail.com)
 [![Focus](https://img.shields.io/badge/Focus-Flutter%20%7C%20React%20%7C%20Next.js-5e81ac?style=for-the-badge&labelColor=1e293b)](https://github.com/CraftedWebPro)
