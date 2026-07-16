@@ -106,9 +106,10 @@
 
 | project | what it is | stack | status |
 |---|---|---|---|
-| 🔒 **Stusync** | full app | JavaScript | active |
-| 🔒 **Trehive Invoice** | billing system | Dart / Flutter | v2.0.1 stable ✅ |
-| 🔒 *+ client work* | various projects | various | ongoing |
+| 🔒 **Deskwise App & Web** | productivity app | Flutter / React | active |
+| 🔒 **Vault-OS** | OS project | Linux / C | active |
+| 🔒 **School Management Web App** | education platform | React / Next.js | active |
+| 🔒 *+ 10 more private repos* | various projects | various | ongoing |
 
 > DM me or email if you want to see samples — happy to share.
 
