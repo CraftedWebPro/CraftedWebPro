@@ -80,8 +80,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CraftedWebPro&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CraftedWebPro&layout=compact&theme=nord&hide_border=true&langs_count=6&count_private=true" height="180"/>
+<img src="https://github-readme-stats.rishav1001.workers.dev/api?username=CraftedWebPro&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.rishav1001.workers.dev/api/top-langs/?username=CraftedWebPro&layout=compact&theme=nord&hide_border=true&langs_count=6&count_private=true" height="180"/>
 
 </div>
 
