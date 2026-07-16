@@ -80,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma.vercel.app/api?username=CraftedWebPro&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats-sigma.vercel.app/api?username=CraftedWebPro&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&v=1" height="180"/>
 
 </div>
 
